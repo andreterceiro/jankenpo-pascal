@@ -1,3 +1,5 @@
 # jankenpo-pascal
 
-I will finish it when I will have time.
+## To run
+
+You can execute `run.sh` that will compile `./index.pas` and execute the generated artifact (`./index`). Or you can directly
